@@ -1,0 +1,14 @@
+name: Epidemiology_COVID_World
+title: Epidemiology_COVID_World
+username:
+account: charlesnuttens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6678919
+bundleId: 6123669
+url: https://charlesnuttens.shinyapps.io/Epidemiology_COVID_World/
+when: 1658503413.75415
+lastSyncTime: 1658503413.75416
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: backup/app_20200409.R|backup/app_test.R
